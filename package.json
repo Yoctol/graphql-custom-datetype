@@ -1,18 +1,18 @@
 {
-  "name": "graphql-custom-datetype",
+  "name": "@yoctol/graphql-custom-datetype",
   "version": "0.3.0",
   "description": "Custom date type for graphql",
   "main": "dist/datetype.js",
-  "homepage": "https://github.com/soundtrackyourbrand/graphql-custom-datetype",
+  "homepage": "https://github.com/Yoctol/graphql-custom-datetype",
   "bugs": {
-    "url": "https://github.com/soundtrackyourbrand/graphql-custom-datetype/issues"
+    "url": "https://github.com/Yoctol/graphql-custom-datetype/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/soundtrackyourbrand/graphql-custom-datetype.git"
+    "url": "https://github.com/Yoctol/graphql-custom-datetype.git"
   },
   "peerDependencies": {
-    "graphql": "^0.5.0 || ^0.6.0"
+    "graphql": "^0.5.0 || ^0.6.0 || ^0.7.0 || ^0.8.0"
   },
   "devDependencies": {
     "babel": "5.8.3",
