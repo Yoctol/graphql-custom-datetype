@@ -1,5 +1,5 @@
 {
-  "name": "@yoctol/graphql-custom-datetype",
+  "name": "yoctol-graphql-custom-datetype",
   "version": "0.3.1",
   "description": "Custom date type for graphql",
   "main": "dist/datetype.js",
