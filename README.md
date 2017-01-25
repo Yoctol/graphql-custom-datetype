@@ -10,7 +10,7 @@ This date type accepts and outputs this format: '2015-07-24T13:15:34.814Z'
 which is commonly used in JSON since it is the default format used by
 JavaScript when serializing dates to JSON.
 
-[![npm version](https://badge.fury.io/js/%40yoctol%2Fgraphql-custom-datetype.svg)](https://www.npmjs.com/package/@yoctol/graphql-custom-datetype)
+[![npm version](https://badge.fury.io/js/yoctol-graphql-custom-datetype.svg)](https://www.npmjs.com/package/yoctol-graphql-custom-datetype)
 [![Build Status](https://travis-ci.org/Yoctol/graphql-custom-datetype.svg?branch=master)](https://travis-ci.org/Yoctol/graphql-custom-datetype)
 
 ## Usage
