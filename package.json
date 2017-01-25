@@ -1,6 +1,6 @@
 {
   "name": "yoctol-graphql-custom-datetype",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Custom date type for graphql",
   "main": "dist/datetype.js",
   "homepage": "https://github.com/Yoctol/graphql-custom-datetype",
